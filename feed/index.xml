@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Explore</title>
-	<atom:link href="https://hainguyen09101999.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>https://hainguyen09101999.github.io/mywordpress</link>
+	<title></title>
+	<atom:link href="http://localhost/nguyenhai/feed/?simply_static_page=428" rel="self" type="application/rss+xml" />
+	<link>https://hainguyen091019.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Mon, 22 May 2023 12:16:02 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 May 2023 01:48:21 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
